@@ -1,0 +1,57 @@
+---
+collection: publications
+---
+<b>2023</b>
+
+<ul>
+  <li>
+    Bapatla, A.K., Puthal, D, Mohanty, S.P., Yanambaka, V.P. and Kougianos, E. (2023)
+    EasyChain: an IoT-friendly blockchain for robust and energy-efficient authentication.
+    <i>Front. Blockchain</i> 6:1194883.
+    <a href="https://doi.org/10.3389/fbloc.2023.1194883">doi: 10.3389/fbloc.2023.1194883</a>
+    <a href="Full_Text_Link">Full text available</a>
+  </li>
+  <li>
+    Bapatla, A.K., Mohanty, S.P., Kougianos, E., Puthal, E. and Bapatla, A. (2023)
+    PharmaChain: a blockchain to ensure counterfeit-free pharmaceutical supply chain.
+    <i>IET Netw.</i> 12(2), 53–76 (2023).
+    <a href="https://doi.org/10.1049/ntw2.12041">https://doi.org/10.1049/ntw2.12041</a>
+    <a href="Full_Text_Link">Full text available</a>
+  </li>
+  <li>
+    A. K. Bapatla, S. P. Mohanty, and E. Kougianos (2023).
+    FortiRx 2.0: Smart Privacy-Preserved Demand Forecasting of Prescription Drugs in Healthcare-CPS.
+    In 21st OITS International Conference on Information Technology (OCIT-2023) (pp. 6).
+  </li>
+  <li>
+    A. K. Bapatla, A. Gupta, S. P. Mohanty, and E. Kougianos (2023).
+    SmartInsure: Blockchain and CNN Leveraged Secure and Efficient Cattle Insurance.
+    In 21st OITS International Conference on Information Technology (OCIT-2023) (pp. 6).
+  </li>
+  <li>
+    P. Mittal, A. K. Bapatla, M.R. Lenka, and S. P. Mohanty (2023).
+    AcadChain: A Blockchain Integrated Secure and Privacy Preserved Student Feedback System.
+    In 21st OITS International Conference on Information Technology (OCIT-2023) (pp. 6).
+  </li>
+  <li>
+    Bapatla, A.K., Mohanty, S.P., Kougianos. (2023).
+    FortiRx: Distributed Ledger based Verifiable and Trustworthy Electronic Prescription Sharing.
+    In: Puthal, D., Mohanty, S., Choi, BY. (eds) Internet of Things.
+    <i>Advances in Information and Communication Technology. IFIPIoT 2023.</i>
+    IFIP Advances in Information and Communication Technology, vol 684. Springer, Cham.
+    <a href="https://doi.org/10.1007/978-3-031-45882-8 19">https://doi.org/10.1007/978-3-031-45882-8 19</a>
+    <a href="Full_Text_Link">Full text available</a>
+  </li>
+  <li>
+    Musharaff Alruwail, Bapatla, A.K., Mohanty, S.P., Kougianos, E. (2023).
+    FarmIns: Blockchain and Smart Contract Based Smart Reliable Crop Monitoring, Traceable System
+    And Risk Mitigation For Crop Insurance. In: Puthal, D., Mohanty, S., Choi, BY. (eds) Internet of Things.
+    <i>Advances in Information and Communication Technology. IFIPIoT 2023.</i>
+    IFIP Advances in Information and Communication Technology, vol 684. Springer, Cham.
+    <a href="https://doi.org/10.1007/978-3-031-45882-8 26">https://doi.org/10.1007/978-3-031-45882-8 26</a>
+    <a href="Full_Text_Link">Full text available</a>
+  </li>
+</ul>
+
+
+<b>2022</b>
