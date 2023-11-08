@@ -1,11 +1,11 @@
 ---
-title: "Research Projects"
-collection: projects
-excerpt: 'Projects'
+title: "Honors, Awards and Nominations"
+collection: awards
+excerpt: 'Awards'
 author_profile: true
 redirect_from: 
-  - /projects/
-  - /projects.html
+  - /awards/
+  - /awards.html
 ---
 Resilient and Scalable Pharmaceutical Supply Chains Design using Distributed Ledgers
 ======
