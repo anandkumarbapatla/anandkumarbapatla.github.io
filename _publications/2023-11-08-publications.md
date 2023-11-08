@@ -9,7 +9,7 @@ redirect_from:
 ---
 2023
 ======
-- Bapatla, A.K., Puthal, D, Mohanty, S.P., Yanambaka, V.P. and Kougianos, E. (2023) EasyChain: an IoT-friendly blockchain for robust and energy-efficient authentication. Front. Blockchain 6:1194883. doi: 10.3389/fbloc.2023.1194883. Full text available at [Frontiers](https://www.frontiersin.org/articles/10.3389/fbloc.2023.1194883/full)
+- A. K. Bapatla, S. P. Mohanty, E. Kougianos, D. Puthal, and A. Bapatla, [“PharmaChain: A Blockchain to Ensure Counterfeit-Free Pharmaceutical Supply Chain”](https://www.frontiersin.org/articles/10.3389/fbloc.2023.1194883/full), IET Networks, Vol. 12, No. 2, March 2023, pp. 53--76, DOI: https://doi.org/10.1049/ntw2.12041.
 - Bapatla, A.K., Mohanty, S.P., Kougianos, E., Puthal, E. and Bapatla, A. PharmaChain: a blockchain to ensure counterfeit-free pharmaceutical supply chain.IET Netw. 12(2), 53–76 (2023). https://doi.org/10.1049/ntw2.1204- Full text available at 
 - A. K. Bapatla, S. P. Mohanty, and E. Kougianos (2023). FortiRx 2.0: Smart Privacy-Preserved Demand Forecasting of Prescription Drugs in Healthcare-CPS. In 21st OITS International Conference on Information Technology (OCIT)(OCIT-2023) (pp. 6).
 - A. K. Bapatla, A. Gupta, S. P. Mohanty, and E. Kougianos (2023). SmartInsure: Blockchain and CNN Leveraged Secure and Efficient Cattle Insurance. In 21st OITS International Conference on Information Technology (OCIT)(OCIT-2023) (pp. 6).
