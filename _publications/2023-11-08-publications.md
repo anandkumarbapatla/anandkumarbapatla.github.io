@@ -13,6 +13,9 @@ redirect_from:
 - A. K. Bapatla, D. Puthal, S. P. Mohanty, V. P. Yanambaka, and E. Kougianos, [“EasyChain: An IoT-Friendly Blockchain for Robust and Energy-Efficient Authentication”](https://www.frontiersin.org/articles/10.3389/fbloc.2023.1194883/full), Frontiers in Blockchain, Vol. 6, No. 1194883, Aug 2023, pp. 1--19, DOI: https://doi.org/10.3389/fbloc.2023.1194883.
 - A. K. Bapatla, S. P. Mohanty, and E. Kougianos, [“FortiRx: Distributed Ledger Based Verifiable and Trustworthy Electronic Prescription Sharing”](https://www.researchgate.net/publication/374999779_FortiRx_Distributed_Ledger_Based_Verifiable_and_Trustworthy_Electronic_Prescription_Sharing), in Proceedings of the IFIP International Internet of Things Conference (IFIP-IoT), 2023, pp. 283--301, DOI: https://doi.org/10.1007/978-3-031-45882-8_19.
 - M. Alruwaill, A. K. Bapatla, S. P. Mohanty, and E. Kougianos, [“FarmIns: Blockchain Leveraged Secure and Reliable Crop Insurance Management System”](https://www.researchgate.net/publication/374999958_FarmIns_Blockchain_Leveraged_Secure_and_Reliable_Crop_Insurance_Management_System), in Proceedings of the IFIP International Internet of Things Conference (IFIP-IoT), 2023, pp. 381--389, DOI: https://doi.org/10.1007/978-3-031-45882-8_26.
+- A. K. Bapatla, S. P. Mohanty, and E. Kougianos.  "FortiRx 2.0: Smart Privacy-Preserved Demand Forecasting of Prescription Drugs in Healthcare-CPS", In Proceedings of the OITS International Conference on Information Technology (OCIT), 2023, pp. XX-XX, Accepted. 
+- A. K. Bapatla, A. Gupta, S. P. Mohanty, and E. Kougianos. "SmartInsure: Blockchain and CNN Leveraged Secure and Efficient Cattle Insurance", In Proceedings of the OITS International Conference on Information Technology (OCIT), 2023, pp. XX-XX, Accepted.
+- P. Mittal, A. K. Bapatla, M.R. Lenka, and S. P. Mohanty. "AcadChain: A Blockchain Integrated Secure and Privacy Preserved StudentFeedback System", In Proceedings of the OITS International Conference on Information Technology (OCIT), 2023, pp. XX-XX, Accepted.
 
 
 2022
@@ -27,3 +30,7 @@ redirect_from:
 =====
 - L. Rachakonda, A. K. Bapatla, S. P. Mohanty, and E. Kougianos, [“SaYoPillow: Blockchain-Integrated Privacy-Assured IoMT Framework for Stress Management Considering Sleeping Habits”](https://www.researchgate.net/publication/347762175_SaYoPillow_Blockchain-Integrated_Privacy-Assured_IoMT_Framework_for_Stress_Management_Considering_Sleeping_Habits), IEEE Transactions on Consumer Electronics (TCE), Vol. 67, No. 1, Feb 2021, pp. 20-29.
 - A. K. Bapatla, S. P. Mohanty, and E. Kougianos, [“sFarm: A Distributed Ledger based Remote Crop Monitoring System for Smart Farming”](https://www.researchgate.net/publication/358830723_sFarm_A_Distributed_Ledger_Based_Remote_Crop_Monitoring_System_for_Smart_Farming), in Proceedings of the 4th IFIP International Internet of Things Conference (IFIP-IoT), 2021, pp. 13--31.
+
+2020
+====
+- L. Rachakonda, A. K. Bapatla, S. P. Mohanty, and E. Kougianos, [“SaYoPillow: A Blockchain-Enabled, Privacy-Assured Framework for Stress Detection, Prediction and Control Considering Sleeping Habits in the IoMT”](https://arxiv.org/abs/2007.07377), arXiv Computer Science, arXiv:2007.07377, July 2020, 38-pages.
