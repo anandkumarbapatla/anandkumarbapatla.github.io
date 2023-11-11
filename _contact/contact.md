@@ -14,10 +14,12 @@ E-mail ID: ANANDKUMARBAPATLA@MY.UNT.EDU
 
 Phone Number
 ===
+<hr/>
 (919) 808-9269
 
 Mailing Address
 ===
+<hr/>
 Anand Kumar Bapatla <br>
 213 Avenue G, <br>
 Apt #20,<br>
