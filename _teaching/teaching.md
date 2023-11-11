@@ -7,6 +7,7 @@ redirect_from:
   - /teaching/
   - /teaching.html
 ---
+
 University of North Texas (Teaching Assistant)
 ====
 <hr />
