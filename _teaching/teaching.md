@@ -7,11 +7,10 @@ redirect_from:
   - /teaching/
   - /teaching.html
 ---
-Teaching
-======
 
 University of North Texas (Teaching Assistant)
 ====
+<hr />
 
 - CSCE 3730 - Reconfigurable Logic, Fall 2023. 
 - CSCE 3612 - Embedded System Design, Summer 2023.

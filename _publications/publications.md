@@ -30,6 +30,7 @@ redirect_from:
 
 2021
 =====
+<hr />
 - L. Rachakonda, <b>A. K. Bapatla</b>, S. P. Mohanty, and E. Kougianos, [“SaYoPillow: Blockchain-Integrated Privacy-Assured IoMT Framework for Stress Management Considering Sleeping Habits”](https://www.researchgate.net/publication/347762175_SaYoPillow_Blockchain-Integrated_Privacy-Assured_IoMT_Framework_for_Stress_Management_Considering_Sleeping_Habits), IEEE Transactions on Consumer Electronics (TCE), Vol. 67, No. 1, Feb 2021, pp. 20-29.
 - <b>A. K. Bapatla</b>, S. P. Mohanty, and E. Kougianos, [“sFarm: A Distributed Ledger based Remote Crop Monitoring System for Smart Farming”](https://www.researchgate.net/publication/358830723_sFarm_A_Distributed_Ledger_Based_Remote_Crop_Monitoring_System_for_Smart_Farming), in Proceedings of the 4th IFIP International Internet of Things Conference (IFIP-IoT), 2021, pp. 13--31.
 

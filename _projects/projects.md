@@ -9,6 +9,7 @@ redirect_from:
 ---
 Resilient and Scalable Pharmaceutical Supply Chains Design using Distributed Ledgers
 ======
+<hr />
 This area will continue my current research, and I will keep on addressing the open challenges for creating a resilient Smart Healthcare applications especially counterfeit-free pharmaceutical supply chains.
 
 - Aim 1: Developing novel system architectures leveraging Distributed Ledger Technologies and Smart Contracts to create a transparent and secure Pharmaceutical Supply Chain, ensuring that pharmaceutical products can be accurately traced from production to consumption, thus reducing the risk of counterfeit drugs.
@@ -17,6 +18,7 @@ This area will continue my current research, and I will keep on addressing the o
 
 Blockchain-based Privacy Preserving Architectures for Prescription Management
 ======
+<hr />
 This project will continue my research towards building efficient prescription management systems to prevent prescription abuse and effective delivery of health services. I plan to explore AI/ML models for modeling accurate demand forecasting of prescription drugs which will address bull-whip effect in pharmaceutical supply chain planning.
 
 - Aim 1: Implement blockchain solutions to improve data security and privacy in prescription systems, safeguarding patient information and preventing  unauthorized access or data breaches. 
@@ -25,6 +27,7 @@ This project will continue my research towards building efficient prescription m
 
 Efficient Decision Support Tools for Smart Agriculture
 =====
+<hr />
 Smart agriculture is significant due to raising population and harsh ever-changing climatic conditions. This project plans to address these challenges in achieving desired yield while protecting farmers from incurring loses. Building IoT systems for equipping farmers with better decision making tools, facilitating tools for Community Supported Farming (CSA) by removing intermediaries, automated weather-index based crop insurances are some of the goals of this project.
 
 - Aim 1: Implement data-driven decision support tools to help farmers make efficient and sustainable choices regarding water, fertilizer, and pesticides, ultimately optimizing resource utilization and reducing waste.  
@@ -33,6 +36,7 @@ Smart agriculture is significant due to raising population and harsh ever-changi
 
 Energy Efficient and Scalable Blockchain Consensus Protocols for IoT Systems
 ====
+<hr />
 Blockchain, while a well-established solution, continue to face spectrum of challenges that limit its seamless adaption in various domains. Issues such as scalability, transaction processing speeds, energy consumption, and interoperability persist, particularly when applied to complex systems like IoT. This project aims to explore those drawbacks and address them.
 
 - Aim 1: Exploring the limitations of existing  consensus mechanisms through which the agreements of distributed nodes in blockchain is achieved. Developing new consensus protocols for overcoming these challenges, such as complex computations, 51% attack, and so on.
