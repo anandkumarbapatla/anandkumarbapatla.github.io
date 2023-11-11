@@ -7,7 +7,6 @@ redirect_from:
   - /talks/
   - /talks.html
 ---
-Talks and Presentations
 =========
 - <b>A. K. Bapatla</b>, S. P. Mohanty, and E. Kougianos, [“FortiRx: Distributed Ledger Based Verifiable and Trustworthy Electronic Prescription Sharing”](https://www.researchgate.net/publication/374999779_FortiRx_Distributed_Ledger_Based_Verifiable_and_Trustworthy_Electronic_Prescription_Sharing), in Proceedings of the IFIP International Internet of Things Conference (IFIP-IoT), 2023, pp. 283--301, DOI: https://doi.org/10.1007/978-3-031-45882-8_19.
 - <b>A. K. Bapatla</b>, S. P. Mohanty, E. Kougianos, and D. Puthal, [“PharmaChain 2.0: A Blockchain Framework for Secure Remote Monitoring of Drug Environmental Parameters in Pharmaceutical Cold Supply Chain”](https://www.researchgate.net/publication/368228524_PharmaChain_20_A_Blockchain_Framework_for_Secure_Remote_Monitoring_of_Drug_Environmental_Parameters_in_Pharmaceutical_Cold_Supply_Chain#fullTextFileContent), in Proceedings of the IEEE International Symposium on Smart Electronic Systems (iSES), 2022, pp. 185--190, DOI: https://doi.org/10.1109/iSES54909.2022.00046.
