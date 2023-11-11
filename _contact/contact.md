@@ -18,8 +18,8 @@ Phone Number
 
 Mailing Address
 ===
-Anand Kumar Bapatla
-213 Avenue G,
-Apt #20,
-Denton,
-TX - 76201
+Anand Kumar Bapatla <br>
+213 Avenue G, <br>
+Apt #20,<br>
+Denton,<br>
+TX - 76201<br>
