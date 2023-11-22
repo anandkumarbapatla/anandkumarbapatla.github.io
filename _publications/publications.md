@@ -10,6 +10,7 @@ redirect_from:
 2023
 ======
 <hr />
+- <b>A. K. Bapatla</b>, S. P. Mohanty, and E. Kougianos, “PharmaChain 3.0: Efficient Tracking and Tracing of Drugs in Pharmaceutical Supply Chain using Blockchain Integrated Product Serialization Mechanism”, Springer Nature Computer Science (SN-CS), Vol. XX, No. YY, Accepted on 20 Nov 2023, Article: MM, NN-pages, DOI: XXX.
 - <b>A. K. Bapatla</b>, S. P. Mohanty, E. Kougianos, D. Puthal, and A. Bapatla, [“PharmaChain: A Blockchain to Ensure Counterfeit-Free Pharmaceutical Supply Chain”](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ntw2.12041), IET Networks, Vol. 12, No. 2, March 2023, pp. 53--76, DOI: https://doi.org/10.1049/ntw2.12041.
 - <b>A. K. Bapatla</b>, D. Puthal, S. P. Mohanty, V. P. Yanambaka, and E. Kougianos, [“EasyChain: An IoT-Friendly Blockchain for Robust and Energy-Efficient Authentication”](https://www.frontiersin.org/articles/10.3389/fbloc.2023.1194883/full), Frontiers in Blockchain, Vol. 6, No. 1194883, Aug 2023, pp. 1--19, DOI: https://doi.org/10.3389/fbloc.2023.1194883.
 - <b>A. K. Bapatla</b>, S. P. Mohanty, and E. Kougianos, [“FortiRx: Distributed Ledger Based Verifiable and Trustworthy Electronic Prescription Sharing”](https://www.researchgate.net/publication/374999779_FortiRx_Distributed_Ledger_Based_Verifiable_and_Trustworthy_Electronic_Prescription_Sharing), in Proceedings of the IFIP International Internet of Things Conference (IFIP-IoT), 2023, pp. 283--301, DOI: https://doi.org/10.1007/978-3-031-45882-8_19.
