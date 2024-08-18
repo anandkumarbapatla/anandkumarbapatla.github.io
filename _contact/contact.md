@@ -10,18 +10,18 @@ redirect_from:
 E-mail
 ===
 <hr/>
-E-mail ID: ANANDKUMARBAPATLA@MY.UNT.EDU
+E-mail ID: BAPATLA@UCMO.EDU
 
 Phone Number
 ===
 <hr/>
-(919) 808-9269
+(660) 543-6624
 
-Mailing Address
+<!-- Mailing Address
 ===
 <hr/>
 Anand Kumar Bapatla <br>
 213 Avenue G, <br>
 Apt #20,<br>
 Denton,<br>
-TX - 76201<br>
+TX - 76201<br> -->

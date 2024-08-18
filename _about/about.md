@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 <hr/>
-I am a passionate and dedicated Ph.D. candidate in [Smart Electronic Systems Lab (SESL)](https://www.smohanty.org/SESL/index.html), Department of Computer Science and Engineering at the University of North Texas working under the mentorship of [Prof. Dr. Saraju P Mohanty](https://www.smohanty.org/), specializing in cutting-edge technologies like <b>Distributed Ledger Systems, Blockchain, Smart Contracts, Artificial Intelligence, and IoT systems especially applications in smart healthcare and smart agriculture.</b> <br>
-
+I am an Assistant Professor in the Department of Computer Science and Cybersecurity at the University of Central Missouri.  I completed my Ph.D. from Department of Computer Science and Engineering at the University of North Texas working under the supervision of [Prof. Dr. Saraju P Mohanty](https://www.smohanty.org/), specializing in cutting-edge technologies like <b>Distributed Ledger Systems, Blockchain, Smart Contracts, Artificial Intelligence, and IoT systems especially applications in smart healthcare and smart agriculture.</b> <br>
 
 Obtained my Master's degree in Computer Engineering from University of North Texas in 2019. I did my Bachelor's of Technology (BTech) in Electronics and Communication Engineering from Gayatri Vidya Parishad College of Engineering (Autonomous), Visakhapatnam, India in 2014. I worked for 3 years as software developer for Inofsys Ltd, Hyderabad, India.  
 
