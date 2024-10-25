@@ -11,7 +11,7 @@ redirect_from:
 ======
 - <b>A. K. Bapatla</b>, S. P. Mohanty, and E. Kougianos, “PharmaChain 3.0: Efficient Tracking and Tracing of Drugs in Pharmaceutical Supply Chain using Blockchain Integrated Product Serialization Mechanism”, Springer Nature Computer Science (SN-CS), Vol. 5, No. 1, Jan 2024, Article: 149, 22-pages, DOI: https://doi.org/10.1007/s42979-023-02510-9.
 - A. Mitra, S. L. T. Vangipuram, <b>A. K. Bapatla</b>, V. K. V. V. Bathalapalli, S. P. Mohanty, E. Kougianos, and C. Ray, “Smart Agriculture: A Comprehensive Overview”, Springer Nature Computer Science (SN-CS), Vol. 5, No. 8, Oct 2024, Article: 969, DOI: https://doi.org/10.1007/s42979-024-03319-w.
-- <b>A. K. Bapatla</b>, S.Rout, S. P. Mohanty, and E. Kougianos, “A Two-Way Security-by-Design Paradigm for Fortification of Industrial IoT”, in Proceedings of International Conference on Data Analytics and Cyber Security (DACS 2024) (Submitted).
+- <b>A. K. Bapatla</b>, S.Rout, S. P. Mohanty, and E. Kougianos, “A Two-Way Security-by-Design Paradigm for Fortification of Industrial IoT”, in Proceedings of International Conference on Data Analytics and Cyber Security (DACS 2024) (Accepted).
 
 2023
 ======
