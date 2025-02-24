@@ -8,6 +8,7 @@ redirect_from:
   - /awards.html
 ---
 <hr />
+- <b>[Best Paper Award](/files/IDACS_2024.png)</b> at the 7th International Conference on Data Analytics and Cyber Security (DACS) , 2024.
 - <b>[Best Paper Award](/files/OCIT_2022_BestPaper.jpg)</b> at the 20th OITS International Conference on Information Technology (OCIT), 2022.
 - Awarded <b>ISVLSI Student Travel Grant</b> 2021
 - <b>[Second Prize](/files/BDBC_2020.jpg)</b> at the IEEE Brain Data Bank Challenge, 2020.
