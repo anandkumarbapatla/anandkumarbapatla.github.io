@@ -11,6 +11,7 @@ redirect_from:
 University of Central Missouri (Assistant Professor)
 ===
 <hr/>
+- CS 5220 - Advanced Applications Programming in Java
 - CS 5130 - Advanced Web Application & Service Development
 
 
