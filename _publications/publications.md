@@ -10,6 +10,7 @@ redirect_from:
 2025
 ======
 - F. Alamri, <b>A. K. Bapatla</b>, V. K. V. V. Bathalapalli, S. P. Mohanty and E. Kougianos, " InoculLedger: A Secure and Scalable Distributed Ledger for Efficient Vaccine Supply Chain Management",  2025 1st International Conference on Secure IoT, Assured and Trusted Computing (SATC) (Accepted)
+
 2024
 ======
 - <b>A. K. Bapatla</b>, S. P. Mohanty, and E. Kougianos, “PharmaChain 3.0: Efficient Tracking and Tracing of Drugs in Pharmaceutical Supply Chain using Blockchain Integrated Product Serialization Mechanism”, Springer Nature Computer Science (SN-CS), Vol. 5, No. 1, Jan 2024, Article: 149, 22-pages, DOI: https://doi.org/10.1007/s42979-023-02510-9.
