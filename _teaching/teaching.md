@@ -11,8 +11,11 @@ redirect_from:
 University of Central Missouri (Assistant Professor)
 ===
 <hr/>
-- CS 5220 - Advanced Applications Programming in Java
-- CS 5130 - Advanced Web Application & Service Development
+- CYBR 4140/5240 - Web Application Security (Fall 2025)
+- CS 4600/5200 - Database Theory & Applications (Fall 2025)
+- CS 4120/5220 - Advanced Applications Programming in Java (Fall 2025)
+- CS 5220 - Advanced Applications Programming in Java (Spring 2025)
+- CS 5130 - Advanced Web Application & Service Development (Fall 2024)
 
 
 University of North Texas (Teaching Assistant)
