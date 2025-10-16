@@ -9,7 +9,7 @@ redirect_from:
 ---
 2025
 ======
-- F. Alamri, <b>A. K. Bapatla</b>, V. K. V. V. Bathalapalli, S. P. Mohanty and E. Kougianos, "InoculLedger: A Secure and Scalable Distributed Ledger for Efficient Vaccine Supply Chain Management," 2025 1st International Conference on Secure IoT, Assured and Trusted Computing (SATC), Dayton, OH, USA, 2025, pp. 1-5, doi: https://doi.org/10.1109/SATC65530.2025.11137250.
+- F. Alamri, <b>A. K. Bapatla</b>, V. K. V. V. Bathalapalli, S. P. Mohanty and E. Kougianos, "InoculLedger: A Secure and Scalable Distributed Ledger for Efficient Vaccine Supply Chain Management," 2025 1st International Conference on Secure IoT, Assured and Trusted Computing (SATC), Dayton, OH, USA, 2025, pp. 1-5, doi: https//doi.org/10.1109/SATC65530.2025.11137250.
 - <b>A. K. Bapatla</b>, S.Rout, S. P. Mohanty, and E. Kougianos, “A Two-Way Security-by-Design Paradigm for Fortification of Industrial IoT”, in Proceedings of International Conference on Data Analytics and Cyber Security (DACS 2024) (In-press). <span style="color:red;">([Awarded Best Paper of the ICDACS 2024.](/files/IDACS_2024.png))</span>
 
 2024
